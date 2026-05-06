@@ -1,0 +1,7 @@
+# Java build artifacts
+*.class
+
+# NetBeans build folders
+/build/
+/dist/
+/nbproject/private/
